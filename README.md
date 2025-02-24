@@ -10,3 +10,4 @@ https://drive.google.com/drive/folders/1hXeqTf13NC7l_Kyi9AQDNXr0Wu0nf5hs?usp=sha
 
 # 2 
 <img width="500" alt="Screenshot 2568-02-25 at 01 06 17" src="https://github.com/user-attachments/assets/b5675c27-cbde-44c3-927a-60d0fad6cdb0" />
+
