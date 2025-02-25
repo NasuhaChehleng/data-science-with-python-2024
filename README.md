@@ -26,6 +26,6 @@ https://drive.google.com/drive/folders/1hXeqTf13NC7l_Kyi9AQDNXr0Wu0nf5hs?usp=sha
 
 # 6
 
-<img width="1020" alt="Screenshot 2568-02-25 at 20 40 25" src="https://github.com/user-attachments/assets/5eca7b11-4c6a-43f8-848a-bae7bef0c54a" />
+<img width="300" alt="Screenshot 2568-02-25 at 20 40 25" src="https://github.com/user-attachments/assets/5eca7b11-4c6a-43f8-848a-bae7bef0c54a" />
 
 # 7
