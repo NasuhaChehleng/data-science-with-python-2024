@@ -2,13 +2,19 @@
 Data Science with Python 2023 Course
 https://drive.google.com/drive/folders/1hXeqTf13NC7l_Kyi9AQDNXr0Wu0nf5hs?usp=sharing
 
+The process of this work
+import CSV Reader
+Analyze data with statistics
+Send results through various graphs such as Bar Chart, Histogram, Density Plot, Pie Chart, Scatter Plot , Can Check and analyze various data
+
 <img width="300" alt="Screenshot 2568-02-25 at 20 37 41" src="https://github.com/user-attachments/assets/5c24282c-3451-41fc-85cc-f255ec637267" />
 
-1.Pull the iris file into the CSV Reader and the data will be displayed.
+1.Pull the iris file into the CSV Reader An arrow line connecting to the Statistics node indicates that the loaded data is being analyzed statistically.
 
 <img width="300" alt="Screenshot 2568-02-25 at 20 38 28" src="https://github.com/user-attachments/assets/0a2c781b-b6f5-4f42-b9a1-26cdb518dde6" />
 
-2.Then the data from the csv reader is pulled into the statistics node, and its results are displayed.
+2.Then the data from the csv reader is pulled into the statistics node, Analyze the statistical values ​​of data such as mean, median, standard deviation, etc.
+Send the results to multiple nodes that are tools to display the data in graphs.
 
 <img width="300" alt="Screenshot 2568-02-25 at 20 38 58" src="https://github.com/user-attachments/assets/bed25c49-0959-4f6c-ad6a-a8f6358d65e3" />
 
