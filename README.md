@@ -16,7 +16,7 @@ Pull the iris file into the CSV Reader An arrow line connecting to the Statistic
 
 <img width="300" alt="Screenshot 2568-02-25 at 20 38 28" src="https://github.com/user-attachments/assets/0a2c781b-b6f5-4f42-b9a1-26cdb518dde6" />
 
-2.Statisyics
+2.Statistics
 
 Then the data from the csv reader is pulled into the statistics node, Analyze the statistical values ​​of data such as mean, median, standard deviation, etc.
 Send the results to multiple nodes that are tools to display the data in graphs.
