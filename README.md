@@ -6,7 +6,7 @@ The process of this work
 
 import CSV Reader
 Analyze data with statistics
-Send results through various graphs such as Bar Chart, Histogram, Density Plot, Pie Chart, Scatter Plot , Can Check and analyze various data
+Send results through various graphs such as Bar Chart, Histogram, Density Plot, Pie Chart, Scatter Plot , Can Check and analyze various data.
 
 <img width="300" alt="Screenshot 2568-02-25 at 20 37 41" src="https://github.com/user-attachments/assets/5c24282c-3451-41fc-85cc-f255ec637267" />
 
