@@ -35,6 +35,8 @@ Higher bars indicate more
 
 4.Density plot
 
+Density Plot shows the distribution of data in a curved form, showing how dense each range of data is. It is suitable for viewing the distribution and trend of data.
+
 <img width="300" alt="Screenshot 2568-02-25 at 20 39 48" src="https://github.com/user-attachments/assets/557b259e-656c-4c40-83de-ed300a4c632b" />
 
 5. Pie chart
