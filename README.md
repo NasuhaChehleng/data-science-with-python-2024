@@ -47,6 +47,10 @@ Pie Chart is a graph that shows data in the form of proportions or percentages o
 
 6.Statistic view
 
+Statistics View is a tool that summarizes and displays statistical data in numerical form, allowing you to quickly understand the overall picture of the data.
+
 <img width="300" alt="Screenshot 2568-02-25 at 20 40 25" src="https://github.com/user-attachments/assets/5eca7b11-4c6a-43f8-848a-bae7bef0c54a" />
 
 7.Scatter plot
+
+Scatter Plot is a graph that shows the relationship between two variables in the form of dots. Each dot represents a set of data, and the position of the dot on the graph is determined by the values ​​of the two variables. This helps us to see patterns, trends, and distribution of data clearly.
