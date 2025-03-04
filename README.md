@@ -41,6 +41,8 @@ Density Plot shows the distribution of data in a curved form, showing how dense 
 
 5. Pie chart
 
+Pie Chart is a graph that shows data in the form of proportions or percentages of each category compared to the total data. It divides the circle into "slices", each slice representing a category of data, and the size of the slice depends on the proportion of the data in that category.
+
 <img width="300" alt="Screenshot 2568-02-25 at 20 40 11" src="https://github.com/user-attachments/assets/485103dd-b396-4c6a-89c2-9431e42f4395" />
 
 6.Statistic view
