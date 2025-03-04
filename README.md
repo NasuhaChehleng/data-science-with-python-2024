@@ -37,12 +37,12 @@ Higher bars indicate more
 
 <img width="300" alt="Screenshot 2568-02-25 at 20 39 48" src="https://github.com/user-attachments/assets/557b259e-656c-4c40-83de-ed300a4c632b" />
 
-5 Pie chart
+5. Pie chart
 
 <img width="300" alt="Screenshot 2568-02-25 at 20 40 11" src="https://github.com/user-attachments/assets/485103dd-b396-4c6a-89c2-9431e42f4395" />
 
-6
+6.Statistic view
 
 <img width="300" alt="Screenshot 2568-02-25 at 20 40 25" src="https://github.com/user-attachments/assets/5eca7b11-4c6a-43f8-848a-bae7bef0c54a" />
 
-7
+7.Scatter plot
