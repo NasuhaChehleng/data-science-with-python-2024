@@ -28,16 +28,16 @@ Send the results to multiple nodes that are tools to display the data in graphs.
 Get data from Statistics node Must have a column that is Category Data
 Process and create a graph It will count the number of values ​​in the selected column 
 and display it as a bar graph User can change the variable to display
-Display as a bar graph Each bar represents the amount of data in each category
+Display as a bar graph Each bar represents the amount of data in each category.
 Higher bars indicate more
 
 <img width="300" alt="Screenshot 2568-02-25 at 20 39 27" src="https://github.com/user-attachments/assets/ea329011-3339-4bbd-8c56-27449042fb15" />
 
-4
+4.Density plot
 
 <img width="300" alt="Screenshot 2568-02-25 at 20 39 48" src="https://github.com/user-attachments/assets/557b259e-656c-4c40-83de-ed300a4c632b" />
 
-5
+5 Pie chart
 
 <img width="300" alt="Screenshot 2568-02-25 at 20 40 11" src="https://github.com/user-attachments/assets/485103dd-b396-4c6a-89c2-9431e42f4395" />
 
